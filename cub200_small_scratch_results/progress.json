@@ -1,0 +1,19 @@
+{
+  "results": {
+    "84": {
+      "1": {
+        "1": {
+          "mean_acc": 0.5642933467328548,
+          "ci95": 0.010264667545915644,
+          "ckpt_path": "/content/cub200_small_scratch_workdir/best_mobile_proto_cub200_small_scratch_84px_seed1_1shot.pth"
+        },
+        "5": {
+          "mean_acc": 0.7188800169229508,
+          "ci95": 0.008937825321400753,
+          "ckpt_path": "/content/cub200_small_scratch_workdir/best_mobile_proto_cub200_small_scratch_84px_seed1_5shot.pth"
+        }
+      }
+    }
+  },
+  "matched": {}
+}
